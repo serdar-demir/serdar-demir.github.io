@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+  background-image: url(images/bg_star.png);
+  background-repeat: repeat;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.center {
+  background-color: white;
+  margin: auto;
+  margin-top: 50px;
+  width: 40%;
+  border: 10px solid black;
+  padding: 10px;
+}
